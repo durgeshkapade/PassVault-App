@@ -33,3 +33,26 @@
    ```bash
    git clone https://github.com/your-username/password-manager.git
    cd password-manager
+
+2. **Install Dependencies**
+
+  ```bash
+  cd client
+  npm install
+
+  cd ../server
+  npm install
+
+3. **Run the Application frontend**
+
+  *frontend*
+  ```bash
+  cd frontend
+  npm run dev
+
+4. **Run the Application backend**
+  *backend*
+  ```bash
+  cd frontend
+  npm run dev
+
