@@ -1,0 +1,24 @@
+.bShadow {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+
+}
+
+.input-box input {
+    height: 40px;
+    border: none;
+    z-index: 100;
+    outline: none;
+    caret-color: violet;
+    text-decoration: none;
+}
+
+.hide-scrollbar {
+    scrollbar-width: none;
+}
+
+.bg-custom {
+    background-color: #e5e5f7;
+    opacity: 0.8;
+    background-image: radial-gradient(#444cf7 0.5px, #e5e5f7 0.5px);
+    background-size: 10px 10px;
+}
